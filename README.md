@@ -1,8 +1,23 @@
-# Apple Homepage Clone
+# 🍎 Apple Homepage Clone
 
-This is a front-end clone of Apple's official homepage, built with HTML, CSS, and JavaScript.
+This project is a front-end clone of the official Apple homepage, built entirely **from scratch** using **HTML, CSS, and JavaScript**.
 
-## Preview
-🌐 [Live Demo](https://nebiyu14.github.io/apple-homepage-clone/)
+## 📱 Features
 
+- **Built from scratch** without any frameworks.
+- **Mobile-first design:** optimized for smartphones, tablets, and desktops.
+- **Fully responsive layout** that adapts seamlessly to different screen sizes.
 
+## 🚀 Live Demo
+
+🔗 [View Project](https://nebiyu14.github.io/apple-homepage-clone/)
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 👨‍💻 Built by
+
+**Nebiyu Tesfaye Nadew**
