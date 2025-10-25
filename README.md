@@ -10,7 +10,7 @@ This project is a front-end clone of the official Apple homepage, built entirely
 
 ## 🚀 Live Demo
 
-🔗 [View Project](https://nebiyu14.github.io/apple-homepage-clone/)
+🔗 [Visit site](https://nebiyu14.github.io/apple-homepage-clone/)
 
 ## 🛠️ Built With
 
